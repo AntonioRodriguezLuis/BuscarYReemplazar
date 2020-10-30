@@ -76,7 +76,7 @@ public class BuscarYReemplazarController extends Application {
 		GridPane.setColumnSpan(reemplazarText, 2);
 		
 
-		Scene scene = new Scene(root, 640, 200);
+		Scene scene = new Scene(root, 500, 200);
 
 		primaryStage.setTitle("Buscar y reemplazar");
 		primaryStage.setScene(scene);
